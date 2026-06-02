@@ -1,4 +1,3 @@
-soal 1
 import java.util.Scanner;
 
 class Koleksi {
@@ -70,7 +69,7 @@ class Novel extends Koleksi {
     }
 }
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
